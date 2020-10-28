@@ -2,7 +2,7 @@
 
 | Standard                              | Conformance Point                                               | Conformance Reference            |                           |
 |---------------------------------------|-----------------------------------------------------------------|----------------------------------|---------------------------|
-| DDS (1.4)                             |                                                                 |                                  |                           |
+| **DDS (1.4)**                             |                                                                 |                                  |                           |
 | Minimum Profile                       |                                                                 | Annex A                          | ---                       |
 |   --- Qos Support:                    |                                                                 | Section 2.2.3                    | ---                       |
 |                                       | *USER_DATA, TOPIC_DATA, GROUP_DATA                              | Section 2.2.3.1,2.2.3.2, 2.2.3.3 |                           |
@@ -42,7 +42,7 @@
 | --- Qos Support                       | *PRESENTATION                                                   | Section 2.2.3.6                  |                           |
 | --- Conditions                        | * QueryCondition                                                |                                  |                           |
 | --- Data Access                       | * create_query_condition                                        |                                  |                           |
-| DDS-SECURITY (1.1)                    |                                                                 |                                  |                           |
+| **DDS-SECURITY (1.1)**                    |                                                                 |                                  |                           |
 | Builtin plugin                        |                                                                 | Section 2.2                      | feature implemented       |
 | * RSA 2048                            |                                                                 | Section 9.3, 9.4                 | feature implemented       |
 | * ECDSA 256                           |                                                                 | Section 9.3, 9.4                 | feature implemented       |
@@ -65,16 +65,16 @@
 | C (from IDL for C mapping)            |                                                                 |                                  |                           |
 | DCPS Programming API                  |                                                                 |                                  | feature implemented       |
 | IDL mapping                           |                                                                 |                                  | feature implemented       |
-| DDS-PSM-Cxx (1.0)                     |                                                                 |                                  |                           |
+| **DDS-PSM-Cxx (1.0)**                     |                                                                 |                                  |                           |
 | DCPS Programming API                  |                                                                 |                                  | feature implemented       |
 | IDL mapping                           |                                                                 |                                  | feature implemented       |
-| DDS-DLRL (1.4)                        |                                                                 |                                  |                           |
-| DDSI-RTPS (2.3)                       |                                                                 |                                  |                           |
+| **DDS-DLRL (1.4)**                        |                                                                 |                                  |                           |
+| **DDSI-RTPS (2.3)**                       |                                                                 |                                  |                           |
 | Large Data Support                    |                                                                 | Section 8.4.14.1                 | feature implemented       |
 | Writer-side content filtering support |                                                                 | Section 8.2.9.1                  | feature implemented       |
 | Group Order Access support            |                                                                 | Section 8.7.5                    |                           |
 | Coherent Set support                  |                                                                 | Section 8.7.6                    | feature implemented       |
-| DDS-XTYPES (1.3)                      |                                                                 |                                  |                           |
+| **DDS-XTYPES (1.3)**                      |                                                                 |                                  |                           |
 | Minimal Conformance                   |                                                                 | Section 2                        | feature implemented       |
 | Basic Conformance                     |                                                                 | Section 2                        | feature implemented       |
 | Complete Conformance                  |                                                                 | Section 2                        | feature implemented       |
@@ -85,7 +85,7 @@
 | Basic Network Interoperability        |                                                                 | Section 2.2.2                    | feature implemented       |
 | XTYPES 1.1 Interoperability           |                                                                 | Section 2.3                      | feature implemented       |
 | XML Data Representation               |                                                                 | Section 2.4                      | feature implemented       |
-| IDL (4.2)                             |                                                                 |                                  |                           |
+| **IDL (4.2)**                             |                                                                 |                                  |                           |
 | Core Data Types                       |                                                                 | Section 7.4.1                    | feature implemented       |
 | Any                                   |                                                                 | Section 7.4.2                    |                           |
 | Extended Data Types                   |                                                                 | Section 7.4.13                   | feature implemented       |
