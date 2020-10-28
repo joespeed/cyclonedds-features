@@ -1,6 +1,6 @@
 # cyclonedds-features
 
-| Standard| Conformance Point| Conformance Reference||
+| Standard| Conformance Point|Reference||
 |---------------------------------------|-----------------------------------------------------------------|----------------------------------|---------------------------|
 | **DDS (1.4)**|| ||
 | Minimum Profile|| Annex A| ---|
